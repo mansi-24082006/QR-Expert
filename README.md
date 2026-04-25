@@ -2,7 +2,7 @@
 
 A production-ready, highly customizable QR Code Generator built with vanilla JavaScript. It allows users to generate QR codes with custom colors, logos, and error correction levels, featuring a modern glassmorphism UI and offline history support.
 
-🔗 **Live Demo:** [Live Link](https://mansi-24082006.github.io/QRExpert/)
+🔗 **Live Demo:** [Live Link](https://mansi-24082006.github.io/QR-Expert/)
 
 ## ✨ Key Features
 
